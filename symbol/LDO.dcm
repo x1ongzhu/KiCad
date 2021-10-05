@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ME6211C15M5G-N
+D High Speed LDO Regulators, High PSRR, Low noise, ME6211 Series
+K LDO, ME6211
+F https://datasheet.lcsc.com/szlcsc/Nanjing-Micro-One-Elec-ME6211C33M5G-N_C82942.pdf
+$ENDCMP
+#
+$CMP ME6211C28M5G-N
+D High Speed LDO Regulators, High PSRR, Low noise, ME6211 Series
+K LDO, ME6211
+F https://datasheet.lcsc.com/szlcsc/Nanjing-Micro-One-Elec-ME6211C33M5G-N_C82942.pdf
+$ENDCMP
+#
+$CMP ME6211C33M5G-N
+D High Speed LDO Regulators, High PSRR, Low noise, ME6211 Series
+K LDO, ME6211
+F https://datasheet.lcsc.com/szlcsc/Nanjing-Micro-One-Elec-ME6211C33M5G-N_C82942.pdf
+$ENDCMP
+#
+#End Doc Library
