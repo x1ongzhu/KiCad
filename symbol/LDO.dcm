@@ -18,4 +18,10 @@ K LDO, ME6211
 F https://datasheet.lcsc.com/szlcsc/Nanjing-Micro-One-Elec-ME6211C33M5G-N_C82942.pdf
 $ENDCMP
 #
+$CMP ME6217C33M5G
+D High Speed LDO Regulators, High PSRR, Low noise, ME6211 Series
+K LDO, ME6211
+F https://atta.szlcsc.com/upload/public/pdf/source/20190910/C427602_D4B9162A2E9D9EF57C60010DFDECEF37.pdf?Expires=4070880000&OSSAccessKeyId=LTAIJDIkh7KmGS1H&Signature=qcb0N8F8J8YWtk2bUR%2B2%2B7s11ZU%3D&response-content-disposition=attachment%3Bfilename%3DC427602_ME6217C33M5G_2019-09-10.PDF
+$ENDCMP
+#
 #End Doc Library
