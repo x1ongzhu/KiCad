@@ -1,0 +1,6 @@
+[submodule "scripting/InteractiveHtmlBom"]
+	path = scripting/InteractiveHtmlBom
+	url = https://github.com/openscopeproject/InteractiveHtmlBom.git
+[submodule "scripting/beantools"]
+	path = scripting/beantools
+	url = https://github.com/beanjs-kicad/beantools.git
