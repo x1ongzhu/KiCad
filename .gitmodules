@@ -4,3 +4,6 @@
 [submodule "scripting/beantools"]
 	path = scripting/beantools
 	url = https://github.com/beanjs-kicad/beantools.git
+[submodule "scripting/RF-tools-KiCAD"]
+	path = scripting/RF-tools-KiCAD
+	url = https://github.com/easyw/RF-tools-KiCAD.git
